@@ -1,16 +1,18 @@
-### Hi there 👋
+### oi 🎩
 
-<!--
-**StiilF/StiilF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é StiilF
 
-Here are some ideas to get you started:
+-estou estudando programaçao
+-busco projetos legais para estudo
+-aprendendo JavaScript
+-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### voce pode entrar em contato comigo 📧
+
+pode me procurar kkk brincadeira !!
+
+ainda nao tenho um email de contato
+
+![](https://media.tenor.com/jCk8c5_Q4J0AAAAC/hacker.gif)
+
