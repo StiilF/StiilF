@@ -3,8 +3,11 @@
 meu nome é StiilF
 
 -estou estudando programaçao
+
 -busco projetos legais para estudo
+
 -aprendendo JavaScript
+
 -
 
 
